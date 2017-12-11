@@ -1,8 +1,8 @@
 <?php
 
 define('DB_NAME', "wp");
-define('DB_USER', "testmysql05%wp");
-define('DB_PASSWORD', "wp.9898!");
+define('DB_USER', 'testmysql05%wp');
+define('DB_PASSWORD', "db.9898!");
 define('DB_HOST', 'testmysql05.mysqldb.chinacloudapi.cn');
 define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', 'utf8_general_ci');
