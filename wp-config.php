@@ -1,9 +1,9 @@
 <?php
 
 define('DB_NAME', "wp");
-define('DB_USER', "wp");
+define('DB_USER', "testmysql05%wp");
 define('DB_PASSWORD', "wp.9898!");
-define('DB_HOST', '10.100.120.140');
+define('DB_HOST', 'testmysql05.mysqldb.chinacloudapi.cn');
 define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', 'utf8_general_ci');
 /** https://api.wordpress.org/secret-key/1.1/salt/ */
